@@ -1,0 +1,9 @@
+Manifest-Version: 1.0
+Main-Class: Runner
+Created-By: IntelliJ IDEA
+Product-Name: VKWatcher
+Extension-Name: VKWatcher
+Implementation-Title: VKWatcher
+Implementation-Version: 0.1
+Implementation-Vendor: Aleksey Litvinov (litvinov.aleks@gmail.com)
+Implementation-URL: http://code.google.com/p/vkwatcher/

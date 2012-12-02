@@ -1,0 +1,11 @@
+<component name="CopyrightManager">
+  <settings default="Apache License 2.0">
+    <module2copyright>
+      <element module="Production" copyright="Apache License 2.0" />
+    </module2copyright>
+    <LanguageOptions name="JAVA">
+      <option name="fileTypeOverride" value="3" />
+      <option name="fileLocation" value="3" />
+    </LanguageOptions>
+  </settings>
+</component>
