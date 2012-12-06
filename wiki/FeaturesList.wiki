@@ -1,0 +1,21 @@
+#summary One-sentence summary of this page.
+#labels Phase-Design
+
+= Features List =
+* Getting current user’s status for unique user at the time (user-entered).
+* Tracking current users’ status.
+# View users as id or as name.
+# Add field how long user is online/ofline or starting which time.
+# View field from previous point in “how long” format or “start time” format.
+* Gathering statistics by users (simple format).
+* Presentation of statistics in HTML and/or graphics view.
+# Conversion simple format file to HTML format.
+Add your content here.
+
+
+= Details =
+
+Add your content here.  Format your content with:
+  * Text in *bold* or _italic_
+  * Headings, paragraphs, and lists
+  * Automatic links to other wiki pages
