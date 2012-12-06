@@ -16,12 +16,6 @@
   <ol>
     <li>Conversion simple format file to HTML format.</li>
 
-
-
-
-= Details =
-
-Add your content here.  Format your content with:
-  * Text in *bold* or _italic_
-  * Headings, paragraphs, and lists
-  * Automatic links to other wiki pages
+<P>
+You could suggest additional features writing via email litvinov.aleks@gmail.com
+</P>
