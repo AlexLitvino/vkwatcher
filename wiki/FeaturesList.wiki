@@ -15,8 +15,7 @@
   <li>Presentation of statistics in HTML and/or graphics view.</li>
     <ol>
       <li>Conversion simple format file to HTML format.</li>
-    </ol>
-</ol>
+
 
 
 
