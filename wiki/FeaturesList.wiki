@@ -17,5 +17,5 @@
     <li>Conversion simple format file to HTML format.</li>
 
 <P>
-You could suggest additional features writing via email litvinov.aleks@gmail.com
+You could suggest additional features writing via email <a href = "mailto:litvinov.aleks@gmail.com">litvinov.aleks@gmail.com</a>
 </P>
