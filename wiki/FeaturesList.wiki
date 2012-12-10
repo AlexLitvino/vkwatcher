@@ -3,7 +3,7 @@
 
 = Features List =
 <ol>
-<li>Getting current user’s status for unique user at the time (user-entered).</li>
+<li>Getting current user’s status for unique user at the time (id is user-entered).</li>
 
 <li>Tracking current users’ status.</li>
   <ol>
@@ -18,4 +18,24 @@
 
 <P>
 You could suggest additional features writing via email <a href = "mailto:litvinov.aleks@gmail.com">litvinov.aleks@gmail.com</a>
+</P>
+
+
+= Список функций =
+<ol>
+<li>Получение текущего статуса пользователя для отдельного пользователя в определенный момент времени (id вводится пользователем).</li>
+
+<li>Отслеживание статуса пользователей.</li>
+  <ol>
+    <li>Показ вида имени пользователей как id или имени.</li>
+    <li>Add field how long user is online/ofline or starting which time.
+    <li>View field from previous point in “how long” format or “start time” format.</li>
+  
+<li>Gathering statistics by users (simple format).</li>
+<li>Presentation of statistics in HTML and/or graphics view.</li>
+  <ol>
+    <li>Conversion simple format file to HTML format.</li>
+
+<P>
+Вы можете предложить дополнительные функции написав на email <a href = "mailto:litvinov.aleks@gmail.com">litvinov.aleks@gmail.com</a>
 </P>
