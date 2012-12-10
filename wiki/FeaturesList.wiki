@@ -1,6 +1,6 @@
 #labels Phase-Design
 #Features List
-
+<P>
 = Features List =
 <ol>
 <li>Getting current user’s status for unique user at the time (id is user-entered).</li>
@@ -19,8 +19,9 @@
 <P>
 You could suggest additional features writing via email <a href = "mailto:litvinov.aleks@gmail.com">litvinov.aleks@gmail.com</a>
 </P>
+</P>
 
-
+<P>
 = Список функций =
 <ol>
 <li>Получение текущего статуса пользователя для отдельного пользователя в определенный момент времени (id вводится пользователем).</li>
@@ -38,4 +39,5 @@ You could suggest additional features writing via email <a href = "mailto:litvin
 
 <P>
 Вы можете предложить дополнительные функции написав на email <a href = "mailto:litvinov.aleks@gmail.com">litvinov.aleks@gmail.com</a>
+</P>
 </P>
