@@ -1,13 +1,14 @@
 #labels Phase-Design
 #Features List
-<P>
-= Features List =
-<ol>
-<li>Getting current user’s status for unique user at the time (id is user-entered).</li>
 
-<li>Tracking current users’ status.</li>
+<P>
+= Список функций =
+<ol>
+<li>Получение текущего статуса пользователя для отдельного пользователя в определенный момент времени (id вводится пользователем).</li>
+
+<li>Отслеживание статуса пользователей.</li>
   <ol>
-    <li>View users as id or as name.</li>
+    <li>Показ вида имени пользователей как id или имени.</li>
     <li>Add field how long user is online/ofline or starting which time.
     <li>View field from previous point in “how long” format or “start time” format.</li>
   
@@ -17,6 +18,6 @@
     <li>Conversion simple format file to HTML format.</li>
 
 <P>
-You could suggest additional features writing via email <a href = "mailto:litvinov.aleks@gmail.com">litvinov.aleks@gmail.com</a>
+Вы можете предложить дополнительные функции написав на email <a href = "mailto:litvinov.aleks@gmail.com">litvinov.aleks@gmail.com</a>
 </P>
 </P>
